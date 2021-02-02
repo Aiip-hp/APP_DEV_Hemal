@@ -15,4 +15,4 @@ To run the script;
 5. copy the server address "http://127.0.0.1:8050/" from the Anaconda Prompt and paste on to a web browser like Google chrome. 
 6. After the Dash app finishes loading, click on the "Upload Maintenance Schedule Files for Solar & Wind Farms" and load the solar_farm.csv and Wind_farm.csv for the maintenance schedule data
 7. Wait for the Dash to update and plot the predicted power output for the next 7 days with derating based on plant maintenace schedule on particular days.
-8. To End the app. on Anaconda Prompt, press cntrl+c twice
+8. To End the app. on Anaconda Prompt, press ctrl+c twice
